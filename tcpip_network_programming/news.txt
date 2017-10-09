@@ -1,0 +1,34 @@
+Nine Ways to Protect Yourself from Hackers Online
+An increase in cyber-attacks and identity theft make the Internet seem like a scary place these days.
+The hacking of Sony Pictures led the news for some time. The U.S. State Department public email system was shut down. Even the White House was a target of cyber-attack.
+Last week, there were reports of a billion dollar theft from European banks and secret viruses on millions of computer systems across Russia, China, India, Iran and elsewhere. This raises a question:
+How can individuals protect or make it more difficult for hackers to access their information?
+Here are nine tips that can help you protect against cyber-attacks:
+1. Make your password harder to hack
+Hard passwords include upper and lower case letters, numbers and special characters. They should be at least eight characters in length. They should also not spell out words easy for hackers to find, like your pet's name or the name of a family member.
+2. Change your password regularly
+A very common mistake made by users is to create one hard password, but then never change it. Remembering a long list of complicated passwords can be difficult. But no password is unbreakable. Hackers are better able hack multiple accounts if those accounts all have the same password. A password management service, like Dashlane or PasswordBox, can help you keep track of hard passwords. These services permit users to easily store and secure their passwords.
+3. Clear your browser history
+This goes for all the devices you use in a day – your home computer, your work computer, or your friend's iPad. Internet browsers like Firefox or Chrome keep track of where you've been and what you've done online. They keep records of every site you visited. Information about what you sent from or saved on your computer can be kept for days or weeks. It is very easy for anyone who sees that information to steal a detailed record of your online activities.
+4. Do not use free Wi-Fi
+An increasing number of public places now offer free wireless access to the Internet. Often, a user does not need a password to connect to these wireless networks. These services might be useful, but they're also an easy way for hackers to access everything on your device. Unless you really need it, it is best not to use it.
+5. Use HTTPS
+HTTPS is officially known as "hyper-text transfer protocol secure." It is similar to HTTP, which is used to enter Internet addresses. HTTPS adds an extra layer of security and encryption while online. Communications between users and sites that support HTTPS are encrypted. The information is also authenticated. That means that HTTPS can determine whether or not a website is real.
+6. Watch what you click
+One of the most popular and successful ways hackers infect your computer is through a technique called phishing. Phishing occurs when someone opens an email attachment that looks real. But the attachment is actually a virus that immediately infects the user's computer. If someone sends you a file or a website you did not ask for, it is best to not click on it.
+7. Try not to use public computers
+For many people, not using a public computer can be difficult. Those without a computer or Internet access at home often use Internet cafes to get online. However, the more different people use a computer, the more likely a virus has infected it.
+8. Use anti-virus protection
+There are many anti-virus services available for users. They can offer many different types of computer protection. Some anti-virus services are even free. They are a great way to have a professional help keep users one step ahead of hackers.
+9. Be careful while using thumb drive
+Thumb drives, also known as flash drives, are small and easy storage devices to use across different computers. They are a popular device that people use to exchange files and documents. They can also spread viruses easily across computers and networks.
+I'm Jonathan Evans.
+Doug Bernard reported this story for Learning English. Jonathan Evans wrote it for Learning English. Hai Do was the editor.
+______________________________________________________________
+Words in This Story
+authenticate – v. to prove that something is real, true, or genuine; to prove that something is authentic
+cyber-attack – n. an attack on computer information systems by hackers
+encryption – n. information changed from one form to another to hide its meaning
+hacker – n. a person who secretly gets access to a computer system in order to get information, cause damage, etc.; a person who hacks into a computer system
+phishing – n. a method by which an e-mail user is tricked into revealing personal or secret information
+What are other methods you have to protect your personal information online? Write to us in the comments section.
